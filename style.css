@@ -183,9 +183,13 @@ border-radius: 10px;
 background-color: #d9d9d9;
 border-radius: 10px;
 }
-
+/*
 .dropdown:hover .dropdown-menu {
 display: block;
+}
+*/
+.dropdown-menu {
+display: none;
 }
 
 .dropdown-menu a {
