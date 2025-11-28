@@ -117,6 +117,7 @@ color: #d9d9d9;
 position: relative;
 display: inline-block;
 margin-top: 20px;
+padding-bottom: 20px
 }
 
 .dropdown-toggle {
@@ -183,13 +184,9 @@ border-radius: 10px;
 background-color: #d9d9d9;
 border-radius: 10px;
 }
-/*
+
 .dropdown:hover .dropdown-menu {
 display: block;
-}
-*/
-.dropdown:hover .dropdown-menu {
-display: none;
 }
 
 .dropdown-menu a {
