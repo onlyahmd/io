@@ -188,7 +188,7 @@ border-radius: 10px;
 display: block;
 }
 */
-.dropdown-menu {
+.dropdown:hover .dropdown-menu {
 display: none;
 }
 
